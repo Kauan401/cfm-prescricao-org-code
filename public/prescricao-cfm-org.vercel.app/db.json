@@ -18,7 +18,7 @@
       },
       "atestato": {
         "unidade": "Upa 24H - Dr. Alair Mafra de Andrade",
-        "diasAfastamento": 04,
+        "diasAfastamento": 4,
         "inicioAfastamento": "04/02/2026",
         "fimAfastamento": "08/02/2026",
         "status": "válido"
@@ -26,5 +26,6 @@
     }
   ]
 }
+
 
 
