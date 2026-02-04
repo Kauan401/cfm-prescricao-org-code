@@ -4,25 +4,26 @@
       "chave": "CFM-G3-7H3F9J6F1",
       "data": "04/02/2026",
       "paciente": {
-        "nome": "João da Silva",
-        "cpf": "123.456.789-00",
-        "dataNascimento": "12/05/1990",
-        "cid": "M54.5",
-        "observacoes": "Dor lombar."
+        "nome": "José italo da silva da conceição",
+        "cpf": "068.934.232-25",
+        "dataNascimento": "23/08/2006",
+        "cid": "A09",
+        "observacoes": "Diarreia e gastroenterite."
       },
       "medico": {
-        "nome": "Dr. Carlos Almeida",
-        "crm": "CRM-GO 12345",
-        "especialidade": "Clínica Médica",
+        "nome": "Dra. Adriana Alves Teles Resende",
+        "crm": "CRM-GO 17921",
+        "especialidade": "FAMÍLIA E COMUNIDADE.",
         "assinaturaDigital": "Assinado digitalmente"
       },
       "atestato": {
         "unidade": "Hospital Municipal de Fazenda Nova",
         "diasAfastamento": 3,
         "inicioAfastamento": "04/02/2026",
-        "fimAfastamento": "06/02/2026",
+        "fimAfastamento": "08/02/2026",
         "status": "válido"
       }
     }
   ]
 }
+
