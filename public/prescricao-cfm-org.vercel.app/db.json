@@ -24,26 +24,32 @@
         "status": "válido"
       }
     }
-     "chave": "CFM-X9-2A8K4M7Q",
-      "data": "06/02/2026",
-      "paciente": {
-        "nome": "Maria Aparecida Souza",
-        "cpf": "123.456.789-00",
-        "dataNascimento": "15/05/1990",
-        "cid": "F41.1",
-        "observacoes": "Transtorno de ansiedade generalizada."
-      },
-      "medico": {
-        "nome": "Dr. Paulo Henrique Lima",
-        "crm": "CRM-GO 12345",
-        "especialidade": "CLÍNICA MÉDICA",
-        "assinaturaDigital": "Assinado digitalmente"
-      },
-      "atestato": {
-        "unidade": "UBS Central",
-        "diasAfastamento": 3,
-        "inicioAfastamento": "06/02/2026",
-        "fimAfastamento": "09/02/2026",
-        "status": "válido" ]
+  ,
+{
+  "chave": "CFM-TESTE-0002",
+  "data": "06/02/2026",
+  "paciente": {
+    "nome": "Maria Souza",
+    "cpf": "111.222.333-44",
+    "dataNascimento": "10/10/1995",
+    "cid": "F41.1",
+    "observacoes": "Ansiedade."
+  },
+  "medico": {
+    "nome": "Dr. Paulo Lima",
+    "crm": "CRM-GO 12345",
+    "especialidade": "CLÍNICA MÉDICA",
+    "assinaturaDigital": "Assinado digitalmente"
+  },
+  "atestato": {
+    "unidade": "UBS Central",
+    "diasAfastamento": 3,
+    "inicioAfastamento": "06/02/2026",
+    "fimAfastamento": "09/02/2026",
+    "status": "válido"
+  }
 }
+ ]
+}
+
 
