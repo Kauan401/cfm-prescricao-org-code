@@ -24,40 +24,26 @@
         "status": "válido"
       }
     }
-  ]
-}
-{
-  "registros": [
-    {
-      "chave": "CFM-G0-7H3F9J6F1",
-      "data": "04/02/2026",
+     "chave": "CFM-X9-2A8K4M7Q",
+      "data": "06/02/2026",
       "paciente": {
-        "nome": "Joé italo da silva da conceição",
-        "cpf": "068.934.232-25",
-        "dataNascimento": "23/08/2006",
-        "cid": "A09",
-        "observacoes": "Diarreia e gastroenterite."
+        "nome": "Maria Aparecida Souza",
+        "cpf": "123.456.789-00",
+        "dataNascimento": "15/05/1990",
+        "cid": "F41.1",
+        "observacoes": "Transtorno de ansiedade generalizada."
       },
       "medico": {
-        "nome": "Dra. Adriana Alves Teles Resende",
-        "crm": "CRM-GO 17921",
-        "especialidade": "FAMÍLIA E COMUNIDADE.",
+        "nome": "Dr. Paulo Henrique Lima",
+        "crm": "CRM-GO 12345",
+        "especialidade": "CLÍNICA MÉDICA",
         "assinaturaDigital": "Assinado digitalmente"
       },
       "atestato": {
-        "unidade": "Upa 24H - Dr. Alair Mafra de Andrade",
-        "diasAfastamento": 4,
-        "inicioAfastamento": "04/02/2026",
-        "fimAfastamento": "08/02/2026",
+        "unidade": "UBS Central",
+        "diasAfastamento": 3,
+        "inicioAfastamento": "06/02/2026",
+        "fimAfastamento": "09/02/2026",
         "status": "válido"
-      }
-    }
   ]
 }
-
-
-
-
-
-
-
