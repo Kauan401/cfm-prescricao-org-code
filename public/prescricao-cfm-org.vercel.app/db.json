@@ -2,27 +2,13 @@
   "registros": [
     {
       "chave": "CFM-G4-7H3F9J6F1",
-      "data": "04/02/2026",
-      "paciente": {
-        "nome": "José Ítalo da Silva da Conceição",
-        "cpf": "068.934.232-25",
-        "dataNascimento": "23/08/2006",
-        "cid": "A09",
-        "observacoes": "Diarreia e gastroenterite."
-      },
-      "medico": {
-        "nome": "Dra. Adriana Alves Teles Resende",
-        "crm": "CRM-GO 17921",
-        "especialidade": "FAMÍLIA E COMUNIDADE",
-        "assinaturaDigital": "Assinado digitalmente"
-      },
-      "atestato": {
-        "unidade": "UPA 24H - Dr. Alair Mafra de Andrade",
-        "diasAfastamento": "4",
-        "inicioAfastamento": "04/02/2026",
-        "fimAfastamento": "08/02/2026",
-        "status": "válido"
-      }
+      "nome": "José Ítalo da Silva da Conceição",
+      "cpf": "068.934.232-25",
+      "cid": "A09",
+      "unidade": "UPA 24H - Dr. Alair Mafra de Andrade",
+      "dias": "4",
+      "inicio": "04/02/2026",
+      "fim": "08/02/2026"
     }
   ]
 }
