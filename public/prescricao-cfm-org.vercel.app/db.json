@@ -24,8 +24,7 @@
         "status": "válido"
       }
     },
-
-    /* 👇 NOVO REGISTRO AQUI */
+    
     {
       "chave": "CFM-G3-7H3F9J6F2",
       "data": "09/02/2026",
@@ -52,3 +51,4 @@
     }
   ]
 }
+
