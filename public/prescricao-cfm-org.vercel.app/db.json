@@ -23,6 +23,32 @@
         "fimAfastamento": "06/02/2026",
         "status": "válido"
       }
+    },
+
+    /* 👇 NOVO REGISTRO AQUI */
+    {
+      "chave": "CFM-G3-7H3F9J6F2",
+      "data": "09/02/2026",
+      "paciente": {
+        "nome": "Maria Santos",
+        "cpf": "987.654.321-00",
+        "dataNascimento": "22/07/1985",
+        "cid": "F41.1",
+        "observacoes": "Ansiedade."
+      },
+      "medico": {
+        "nome": "Dra. Ana Paula",
+        "crm": "CRM-GO 54321",
+        "especialidade": "Medicina de Emergência",
+        "assinaturaDigital": "Assinado digitalmente"
+      },
+      "atestato": {
+        "unidade": "UPA Centro",
+        "diasAfastamento": 5,
+        "inicioAfastamento": "09/02/2026",
+        "fimAfastamento": "13/02/2026",
+        "status": "válido"
+      }
     }
   ]
 }
