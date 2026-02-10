@@ -42,7 +42,7 @@
       },
       "atestato": {
         "unidade": "UPA Centro - Sul ",
-        "diasAfastamento": 08,
+        "diasAfastamento": "08",
         "inicioAfastamento": "09/02/2026",
         "fimAfastamento": "16/02/2026",
         "status": "válido"
@@ -50,3 +50,4 @@
     }
   ]
 }
+
