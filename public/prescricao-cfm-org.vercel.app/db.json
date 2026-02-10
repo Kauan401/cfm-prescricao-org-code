@@ -22,7 +22,18 @@
         "inicioAfastamento": "04/02/2026",
         "fimAfastamento": "06/02/2026",
         "status": "válido"
-      }
+      },
+      {
+  "registros": [
+    {
+      "chave": "CFM-G4-7H3F9J6F9",
+      "nome": "José Ítalo da Silva da Conceição",
+      "cpf": "068.934.232-25",
+      "cid": "A09",
+      "unidade": "UPA 24H - Dr. Alair Mafra de Andrade",
+      "dias": "4",
+      "inicio": "04/02/2026",
+      "fim": "08/02/2026"
     }
   ]
 }
