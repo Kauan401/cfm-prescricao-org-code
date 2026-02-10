@@ -16,35 +16,11 @@
         "especialidade": "FAMÍLIA E COMUNIDADE",
         "assinaturaDigital": "Assinado digitalmente"
       },
-      "atestado": {
+      "atestato": {
         "unidade": "UPA 24H - Dr. Alair Mafra de Andrade",
-        "diasAfastamento": 4,
+        "diasAfastamento": "4",
         "inicioAfastamento": "04/02/2026",
         "fimAfastamento": "08/02/2026",
-        "status": "válido"
-      }
-    },
-    {
-      "chave": "CFM-G4-7H3F9J6F3",
-      "data": "09/02/2026",
-      "paciente": {
-        "nome": "Alessandra de Oliveira Trindade",
-        "cpf": "055.875.116-42",
-        "dataNascimento": "06/05/1981",
-        "cid": "F41.1",
-        "observacoes": "Ansiedade."
-      },
-      "medico": {
-        "nome": "Dra. Bárbara Rodrigues Toneli",
-        "crm": "CRM-MG 78454",
-        "especialidade": "MEDICINA DE EMERGÊNCIA",
-        "assinaturaDigital": "Assinado digitalmente"
-      },
-      "atestado": {
-        "unidade": "UPA Centro - Sul",
-        "diasAfastamento": 8,
-        "inicioAfastamento": "09/02/2026",
-        "fimAfastamento": "16/02/2026",
         "status": "válido"
       }
     }
