@@ -2,25 +2,25 @@
   "registros": [
     {
       "chave": "CFM-G3-7H3K9J6F1",
-      "data": "29/04/2026",
+      "data": "19/06/2026",
       "paciente": {
-        "nome": "STHEFANIA FRNACIELE VITOR DA SILVA",
+        "nome": "LEANDRO ALVES DE SOUZA",
         "cpf": "130.601.106-03",
-        "dataNascimento": "29/05/1995",
-        "cid": "R50.9",
-        "observacoes": "DOR NO CORPO E FEBRE"
+        "dataNascimento": "15/10/1986",
+        "cid": "F41.1",
+        "observacoes": "ANSIEDADE GENERALIZADA"
       },
       "medico": {
         "nome": "Dra. ALICE SOUZA GOMES DE ASSIS",
         "crm": "CRM-MG 107962",
-        "especialidade": "Familía e Comunidade",
+        "especialidade": "Psiquiatra",
         "assinaturaDigital": "Assinado digitalmente"
       },
       "atestato": {
         "unidade": "ATENDIMENTO ONLINE",
-        "diasAfastamento": 1,
-        "inicioAfastamento": "29/04/2026",
-        "fimAfastamento": "29/04/2026",
+        "diasAfastamento": 5 meses,
+        "inicioAfastamento": "19/06/2026",
+        "fimAfastamento": "19/11/2026",
         "status": "válido"
       }
     },
