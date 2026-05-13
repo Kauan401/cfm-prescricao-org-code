@@ -18,7 +18,7 @@
       },
       "atestato": {
         "unidade": "ATENDIMENTO ONLINE",
-        "diasAfastamento": 5 meses,
+        "diasAfastamento": 5,
         "inicioAfastamento": "19/06/2026",
         "fimAfastamento": "19/11/2026",
         "status": "válido"
