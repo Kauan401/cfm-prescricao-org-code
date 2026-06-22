@@ -1,26 +1,26 @@
 {
   "registros": [
     {
-      "chave": "CFM-G3-7H3K9J6F1",
-      "data": "19/06/2026",
+      "chave": "CFM-G3-7H3K9J6F2",
+      "data": "22/06/2026",
       "paciente": {
-        "nome": "LEANDRO ALVES DE SOUZA",
-        "cpf": "019.114.351-08",
-        "dataNascimento": "15/10/1986",
-        "cid": "F41.1",
-        "observacoes": "ANSIEDADE GENERALIZADA / "
+        "nome": "JHONNATHAN CARVALHO SANTOS",
+        "cpf": "519.200.308-32",
+        "dataNascimento": "01/03/2001",
+        "cid": "R50",
+        "observacoes": "FEBRE"
       },
       "medico": {
         "nome": "Dr. Marco Aurelio De Oliveira Mendonça",
-        "crm": "CRM-MT 4734",
-        "especialidade": "Psiquiatra",
+        "crm": "CRM-SP 17803",
+        "especialidade": "MEDICINA DA FAMILÍA E COMUNIDADE",
         "assinaturaDigital": "Assinado digitalmente"
       },
       "atestato": {
         "unidade": "ATENDIMENTO ONLINE",
-        "diasAfastamento": 180,
-        "inicioAfastamento": "19/06/2026",
-        "fimAfastamento": "16/12/2026",
+        "diasAfastamento": 1,
+        "inicioAfastamento": "22/06/2026",
+        "fimAfastamento": "22/06/2026",
         "status": "válido"
       }
     },
