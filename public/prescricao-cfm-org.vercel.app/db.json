@@ -72,6 +72,28 @@
         "inicioAfastamento": "06/07/2026",
         "fimAfastamento": "07/06/2026",
         "status": "válido"
+         {
+      "chave": "CFM-H1-8K319J9F9",
+      "data": "07/07/2026",
+      "paciente": {
+        "nome": "MÁRCIA NAVES DA SILVA",
+        "cpf": "856.066.851-91",
+        "dataNascimento": "18/11/1977",
+        "cid": "M54.5",
+        "observacoes": "LOMBALGIA."
+      },
+      "medico": {
+        "nome": "Dr. HIAGO HENRIQUE DE SOUZA FERREIRA",
+        "crm": "CRM-GO 37554",
+        "especialidade": "MEDICINA FAMILÍA E COMUNIDADE",
+        "assinaturaDigital": "Assinado digitalmente"
+      },
+      "atestato": {
+        "unidade": "TELEMEDICINA",
+        "diasAfastamento": 2,
+        "inicioAfastamento": "07/07/2026",
+        "fimAfastamento": "09/07/2026",
+        "status": "válido"
       }
     }
   ]
