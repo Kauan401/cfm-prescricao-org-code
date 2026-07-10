@@ -90,9 +90,31 @@
       },
       "atestato": {
         "unidade": "TELEMEDICINA",
-        "diasAfastamento": 2,
-        "inicioAfastamento": "07/07/2026",
-        "fimAfastamento": "09/07/2026",
+        "diasAfastamento": 5,
+        "inicioAfastamento": "06/07/2026",
+        "fimAfastamento": "11/07/2026",
+        "status": "válido"
+        }, 
+      "chave": "CFM-H1-8K319J9FF",
+      "data": "06/07/2026",
+      "paciente": {
+        "nome": "SAMUEL MARQUES ALMEIDA SILV",
+        "cpf": "702.412.716-30",
+        "dataNascimento": "10/04/2008",
+        "cid": "B34",
+        "observacoes": "INFECÇÃO VIRAL - NÃO ESPECIFICADA."
+      },
+      "medico": {
+        "nome": "Dr. CIRILO JOSÉ FERREIRA NETO",
+        "crm": "CRM-MG 83219",
+        "especialidade": "INFECTOLOGISTA.",
+        "assinaturaDigital": "Assinado digitalmente"
+      },
+      "atestato": {
+        "unidade": "UPA CANNA - MÓDULO: ATESTA CFM",
+        "diasAfastamento": 5,
+        "inicioAfastamento": "06/07/2026",
+        "fimAfastamento": "11/07/2026",
         "status": "válido"
       }
     }
