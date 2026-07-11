@@ -72,28 +72,6 @@
         "inicioAfastamento": "06/07/2026",
         "fimAfastamento": "07/06/2026",
         "status": "válido"
-     }, 
-      "chave": "CFM-G7-9H9J8Z0J9",
-      "data": "11/07/2026",
-      "paciente": {
-        "nome": "MÁRCIA NAVES DA SILVA",
-        "cpf": "856.066.851-91",
-        "dataNascimento": "18/11/1977",
-        "cid": "B34",
-        "observacoes": "VIRÓSE."
-      },
-      "medico": {
-        "nome": "Dra. THAYNARA FELIPE LEMES",
-        "crm": "CRM-GO 37504",
-        "especialidade": "MEDICINA FAMILÍA E COMUNIDADE",
-        "assinaturaDigital": "Assinado digitalmente"
-      },
-      "atestato": {
-        "unidade": "TELEMEDICINA",
-        "diasAfastamento": 10,
-        "inicioAfastamento": "11/07/2026",
-        "fimAfastamento": "12/07/2026",
-        "status": "válido"
         }, 
       "chave": "CFM-H1-8K319J9FF",
       "data": "06/07/2026",
