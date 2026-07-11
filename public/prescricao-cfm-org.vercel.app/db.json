@@ -95,6 +95,31 @@
         "fimAfastamento": "11/07/2026",
         "status": "válido"
       }
+    },
+      
+      {
+      "chave": "CFM-G8-8L3L9J6F1",
+      "data": "06/07/2026",
+      "paciente": {
+        "nome": "HANNA JULLYA LENZI DE ALMEIDA SANTOS",
+        "cpf": "163.594.947-52",
+        "dataNascimento": "09/10/2008",
+        "cid": "A09",
+        "observacoes": "GASTROENTERITE."
+      },
+      "medico": {
+        "nome": "Dr. WALLACE MAGALHÃES",
+        "crm": "CRM-ES 288",
+        "especialidade": "MEDICINA DA FAMILÍA E COMUNIDADE",
+        "assinaturaDigital": "Assinado digitalmente"
+      },
+      "atestato": {
+        "unidade": "HOSPITAL MADRE REGINA PROTMANN- ATESTA CFM",
+        "diasAfastamento": 1,
+        "inicioAfastamento": "06/07/2026",
+        "fimAfastamento": "07/06/2026",
+        "status": "válido"
+      }
     }
   ]
 }
