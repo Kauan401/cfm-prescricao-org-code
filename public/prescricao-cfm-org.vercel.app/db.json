@@ -119,6 +119,30 @@
         "inicioAfastamento": "11/07/2026",
         "fimAfastamento": "12/06/2026",
         "status": "válido"
+         }
+    },
+      {
+      "chave": "CFM-G9-8L5L9J6F1",
+      "data": "11/07/2026",
+      "paciente": {
+        "nome": "LARA PABLINY ALMEIDA SILVA",
+        "cpf": "707.604.931-70",
+        "dataNascimento": "03/03/2002",
+        "cid": "B34",
+        "observacoes": "VIROSE."
+      },
+      "medico": {
+        "nome": "Dr. HIAGO HENRIQUE DE SOUZA FERREIRA",
+        "crm": "CRM-GO 37554",
+        "especialidade": "MEDICINA DA FAMILÍA E COMUNIDADE",
+        "assinaturaDigital": "Assinado digitalmente"
+      },
+      "atestato": {
+        "unidade": "TELEMEDICINA",
+        "diasAfastamento": 1,
+        "inicioAfastamento": "11/07/2026",
+        "fimAfastamento": "12/06/2026",
+        "status": "válido"
       }
     }
   ]
