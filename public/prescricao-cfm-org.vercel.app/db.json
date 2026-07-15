@@ -1,26 +1,26 @@
 {
   "registros": [
     {
-      "chave": "CFM-G7-8L3L9J6F1",
+      "chave": "CFM-G6-0L1L9J9F6",
       "data": "04/07/2026",
       "paciente": {
         "nome": "KESLER DIALES ARCHANJO DE ALMEIDA",
         "cpf": "517.131.068-84",
         "dataNascimento": "01/03/2006",
-        "cid": "B34.9",
-        "observacoes": "INFECÇÃO VIRAL."
+        "cid": "J18",
+        "observacoes": "PNEUMONIA."
       },
       "medico": {
-        "nome": "Dra. AMANDA NAIRA PIRONEL",
-        "crm": "CRM-SP 184742",
+        "nome": "Dr. ADILSON DUARTE DOS SANTOS",
+        "crm": "CRM-SP 61087",
         "especialidade": "MEDICINA DA FAMILÍA E COMUNIDADE",
         "assinaturaDigital": "Assinado digitalmente"
       },
       "atestato": {
-        "unidade": "UPA OESTE - RIBEIRÃO PRETO",
-        "diasAfastamento": 2,
-        "inicioAfastamento": "04/07/2026",
-        "fimAfastamento": "06/07/2026",
+        "unidade": "SANTA LYDIA- RIBEIRÃO PRETO",
+        "diasAfastamento": 7,
+        "inicioAfastamento": "13/07/2026",
+        "fimAfastamento": "20/07/2026",
         "status": "válido"
       }
     },
