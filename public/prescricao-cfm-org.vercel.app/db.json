@@ -2,7 +2,7 @@
   "registros": [
     {
       "chave": "CFM-G6-0L1L9J9F6",
-      "data": "04/07/2026",
+      "data": "13/07/2026",
       "paciente": {
         "nome": "KESLER DIALES ARCHANJO DE ALMEIDA",
         "cpf": "517.131.068-84",
@@ -13,7 +13,7 @@
       "medico": {
         "nome": "Dr. ADILSON DUARTE DOS SANTOS",
         "crm": "CRM-SP 61087",
-        "especialidade": "MEDICINA DA FAMILÍA E COMUNIDADE",
+        "especialidade": "PNEUMOLOGISTA",
         "assinaturaDigital": "Assinado digitalmente"
       },
       "atestato": {
