@@ -143,6 +143,30 @@
         "inicioAfastamento": "11/07/2026",
         "fimAfastamento": "13/06/2026",
         "status": "válido"
+        }
+    },
+      {
+      "chave": "CFM-G4-4HUJ9J6F5",
+      "data": "15/07/2026",
+      "paciente": {
+        "nome": "LIUENNE BATISTA DA SILVA,",
+        "cpf": "030.604.081-65",
+        "dataNascimento": "26/12/1991",
+        "cid": "I80",
+        "observacoes": "HIPERTENSÃO."
+      },
+      "medico": {
+        "nome": "Dra. YÁSKARA DE BASTOS",
+        "crm": "CRM-GO 26184",
+        "especialidade": "MEDICINA DA FAMILÍA E COMUNIDADE",
+        "assinaturaDigital": "Assinado digitalmente"
+      },
+      "atestato": {
+        "unidade": "UTI - HOSPITAL E MATERNIDADE NOSSA SENHORA APARECIDA - CFM",
+        "diasAfastamento": 1,
+        "inicioAfastamento": "15/07/2026",
+        "fimAfastamento": "16/07/2026",
+        "status": "válido"
       }
     }
   ]
