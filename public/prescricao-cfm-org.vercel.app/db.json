@@ -1,26 +1,26 @@
 {
   "registros": [
     {
-      "chave": "CFM-G6-0L1L9J9F6",
-      "data": "13/07/2026",
+      "chave": "CFM-G4-4HUJ9J3F3",
+      "data": "20/07/2026",
       "paciente": {
-        "nome": "KESLER DIALES ARCHANJO DE ALMEIDA",
-        "cpf": "517.131.068-84",
+        "nome": "LUIS FELIPE RIBEIRO FERREIRA",
+        "cpf": "622.481.663-89",
         "dataNascimento": "01/03/2006",
-        "cid": "J18",
-        "observacoes": "PNEUMONIA."
+        "cid": "R09",
+        "observacoes": "VIAS RESPIRATÓRIAS."
       },
       "medico": {
-        "nome": "Dr. ADILSON DUARTE DOS SANTOS",
-        "crm": "CRM-SP 61087",
-        "especialidade": "PNEUMOLOGISTA",
+        "nome": "Dr. JUVENILSON JOSE DE SA ANDRADE",
+        "crm": "CRM-PE 16036",
+        "especialidade": "FAMÍLIA E COMUNIDADE.",
         "assinaturaDigital": "Assinado digitalmente"
       },
       "atestato": {
-        "unidade": "SANTA LYDIA- RIBEIRÃO PRETO",
-        "diasAfastamento": 7,
-        "inicioAfastamento": "13/07/2026",
-        "fimAfastamento": "20/07/2026",
+        "unidade": "UNIDADE BÁSICA DE SAÚDE | RICARDO SOARES COELHO",
+        "diasAfastamento": 1,
+        "inicioAfastamento": "20/07/2026",
+        "fimAfastamento": "21/07/2026",
         "status": "válido"
       }
     },
