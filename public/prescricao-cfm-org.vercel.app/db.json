@@ -146,26 +146,26 @@
         }
     },
       {
-      "chave": "CFM-G4-4HUJ9J6F5",
-      "data": "15/07/2026",
+      "chave": "CFM-H4-4FVJ8J6F1",
+      "data": "22/07/2026",
       "paciente": {
         "nome": "LIUENNE BATISTA DA SILVA,",
         "cpf": "030.604.081-65",
         "dataNascimento": "26/12/1991",
-        "cid": "I10",
-        "observacoes": "HIPERTENSÃO."
+        "cid": "J00",
+        "observacoes": "NASOFARINGITE AGUDA."
       },
       "medico": {
-        "nome": "Dra. YÁSKARA DE BASTOS",
-        "crm": "CRM-GO 26184",
+        "nome": "Dr. MÁRCIO HENRIQUE ALVES FERREIRA",
+        "crm": "CRM-GO 19706",
         "especialidade": "MEDICINA DA FAMILÍA E COMUNIDADE",
         "assinaturaDigital": "Assinado digitalmente"
       },
       "atestato": {
         "unidade": "UTI - HOSPITAL E MATERNIDADE NOSSA SENHORA APARECIDA - CFM",
-        "diasAfastamento": 1,
-        "inicioAfastamento": "15/07/2026",
-        "fimAfastamento": "16/07/2026",
+        "diasAfastamento": 3,
+        "inicioAfastamento": "22/07/2026",
+        "fimAfastamento": "25/07/2026",
         "status": "válido"
       }
     }
