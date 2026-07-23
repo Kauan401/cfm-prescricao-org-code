@@ -167,6 +167,31 @@
         "inicioAfastamento": "21/07/2026",
         "fimAfastamento": "24/07/2026",
         "status": "válido"
+        }
+    },
+      {
+  "chave": "CFM-F4-4FVJ8J8F1",
+  "data": "22/07/2026",
+  "paciente": {
+    "nome": "ANDRYLL ROSA FREITAS",
+    "cpf": "036.523.443-59",
+    "dataNascimento": "27/01/2002",
+    "cid": "M54.5",
+    "observacoes": "LOMBALGIA"
+  },
+  "medico": {
+    "nome": "Dra. ADRIANA VIEIRA DRIGO",
+    "crm": "CRM-MG 58828",
+    "especialidade": "MEDICINA FAMÍLIA E COMUNIDADE",
+    "assinaturaDigital": "Assinado digitalmente"
+  },
+  "atestato": {
+    "unidade": "Hospital Universitário Sagrada Família (HUSF)",
+    "diasAfastamento": 2,
+    "inicioAfastamento": "22/07/2026",
+    "fimAfastamento": "24/07/2026",
+    "status": "válido"
+
       }
     }
   ]
