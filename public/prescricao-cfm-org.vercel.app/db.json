@@ -122,26 +122,26 @@
          }
     },
       {
-      "chave": "CFM-G9-8L5L9J6F1",
-      "data": "11/07/2026",
+      "chave": "CFM-V1-6H9U2J6F4",
+      "data": "26/07/2026",
       "paciente": {
         "nome": "LARA PABLINY ALMEIDA SILVA",
         "cpf": "707.604.931-70",
         "dataNascimento": "03/03/2002",
-        "cid": "B34",
-        "observacoes": "VIROSE."
+        "cid": "M54.5",
+        "observacoes": "LOMBALGIA."
       },
       "medico": {
-        "nome": "Dr. HIAGO HENRIQUE DE SOUZA FERREIRA",
-        "crm": "CRM-GO 37554",
+        "nome": "Dr. ABNER DE ALMEIDA SOUZA",
+        "crm": "CRM-GO 32973",
         "especialidade": "MEDICINA DA FAMILÍA E COMUNIDADE",
         "assinaturaDigital": "Assinado digitalmente"
       },
       "atestato": {
         "unidade": "TELEMEDICINA",
-        "diasAfastamento": 2,
-        "inicioAfastamento": "11/07/2026",
-        "fimAfastamento": "13/06/2026",
+        "diasAfastamento": 1,
+        "inicioAfastamento": "26/07/2026",
+        "fimAfastamento": "27/07/2026",
         "status": "válido"
         }
     },
