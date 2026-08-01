@@ -142,9 +142,9 @@
       },
       "atestato": {
         "unidade": "TELEMEDICINA",
-        "diasAfastamento": 1,
+        "diasAfastamento": 2,
         "inicioAfastamento": "01/08/2026",
-        "fimAfastamento": "01/08/2026",
+        "fimAfastamento": "02/08/2026",
         "status": "válido"
         }
     },
