@@ -200,7 +200,7 @@
   "chave": "CFM-K0-8L3Z1U7V2",
   "data": "12/08/2026",
   "paciente": {
-    "nome": "THIAGO MUNHÕES DA SILVA",
+    "nome": "THIAGO VIADAO ESTRUPADO",
     "cpf": "038.933.259-30",
     "dataNascimento": "28/09/1989",
     "cid": "S92",
@@ -217,7 +217,7 @@
     "diasAfastamento": 30,
     "inicioAfastamento": "12/08/2026",
     "fimAfastamento": "10/09/2026",
-    "status": "válido"
+    "status": "FALSO"
 
 
       }
