@@ -194,6 +194,31 @@
     "inicioAfastamento": "03/08/2026",
     "fimAfastamento": "11/08/2026",
     "status": "válido"
+    }
+    },
+      {
+  "chave": "CFM-K0-8L3Z1U7V2",
+  "data": "12/08/2026",
+  "paciente": {
+    "nome": "THIAGO MUNHÕES DA SILVA",
+    "cpf": "038.933.259-30",
+    "dataNascimento": "28/09/1989",
+    "cid": "S92",
+    "observacoes": "FRATURA"
+  },
+  "medico": {
+    "nome": "Dra. DAIZE MORAES DE AVILA",
+    "crm": "CRM - 34779",
+    "especialidade": "MEDICINA FAMÍLIA E COMUNIDADE",
+    "assinaturaDigital": "Assinado digitalmente"
+  },
+  "atestato": {
+    "unidade": "HOSPITAL E MATERNIDADE SÃO JOSÉ DOS PINHAIS",
+    "diasAfastamento": 30,
+    "inicioAfastamento": "12/08/2026",
+    "fimAfastamento": "10/09/2026",
+    "status": "válido"
+
 
       }
     }
