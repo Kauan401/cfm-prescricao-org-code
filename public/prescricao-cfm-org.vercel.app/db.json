@@ -149,26 +149,26 @@
         }
     },
       {
-      "chave": "CFM-H4-4FVJ8J6F1",
-      "data": "21/07/2026",
+      "chave": "CFM-C3-0JKH1V2B5",
+      "data": "13/08/2026",
       "paciente": {
         "nome": "LIUENNE BATISTA DA SILVA,",
         "cpf": "030.604.081-65",
         "dataNascimento": "25/12/1991",
-        "cid": "J00",
-        "observacoes": "NASOFARINGITE AGUDA."
+        "cid": "F43",
+        "observacoes": "REAÇÕES AO ESTRESSE GRAVE."
       },
       "medico": {
-        "nome": "Dr. MÁRCIO HENRIQUE ALVES FERREIRA",
-        "crm": "CRM-GO 19706",
-        "especialidade": "MEDICINA DA FAMILÍA E COMUNIDADE",
+        "nome": "Dr. LUCIANO MARTINS DE BRITO",
+        "crm": "CRM-GO 13507",
+        "especialidade": "CLÍNICO GERAL",
         "assinaturaDigital": "Assinado digitalmente"
       },
       "atestato": {
-        "unidade": "UTI - HOSPITAL E MATERNIDADE NOSSA SENHORA APARECIDA - CFM",
-        "diasAfastamento": 3,
-        "inicioAfastamento": "21/07/2026",
-        "fimAfastamento": "24/07/2026",
+        "unidade": "CENTRO MÉDICO MUNICIPAL DE CALDAS NOVAS",
+        "diasAfastamento": 2,
+        "inicioAfastamento": "13/08/2026",
+        "fimAfastamento": "14/08/2026",
         "status": "válido"
         }
     },
