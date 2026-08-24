@@ -218,7 +218,30 @@
     "inicioAfastamento": "12/08/2026",
     "fimAfastamento": "10/09/2026",
     "status": "FALSO"
-
+}
+    },
+      {
+  "chave": "CFM-K3-1U1U3V3B82",
+  "data": "18/08/2026",
+  "paciente": {
+    "nome": "ANA JÚLIA FURTADO NASCIMENTO",
+    "cpf": "176.008.146-92",
+    "dataNascimento": "16/07/2012",
+    "cid": "Z01.4",
+    "observacoes": "Afastamento de 4 dias"
+  },
+  "medico": {
+    "nome": "Dra. ANNA MARCELLA FERREIRA ROSA",
+    "crm": "CRM-MG 116.343",
+    "especialidade": "MEDICINA FAMÍLIA E COMUNIDADE",
+    "assinaturaDigital": "Assinado digitalmente"
+  },
+  "atestado": {
+    "unidade": "POSTO DE SAÚDE DE DOLEARINA",
+    "diasAfastamento": 4,
+    "inicioAfastamento": "18/08/2026",
+    "fimAfastamento": "21/08/2026",
+    "status": "Válido"
 
       }
     }
