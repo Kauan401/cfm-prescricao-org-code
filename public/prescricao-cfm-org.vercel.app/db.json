@@ -242,7 +242,30 @@
     "inicioAfastamento": "18/08/2026",
     "fimAfastamento": "21/08/2026",
     "status": "Válido"
-
+}
+    },
+      {
+  "chave": "CFM-H5-1U1U3V3B82",
+  "data": "03/12/2026",
+  "paciente": {
+    "nome": "GEOVANA SILVA OLIVEIRA",
+    "cpf": "108.195.235-00",
+    "dataNascimento": "11/02/2008",
+    "cid": "M60.9",
+    "observacoes": "MIOSITE NÂO ESPECIFICADA"
+  },
+  "medico": {
+    "nome": "Dr. ADALBERTO MENDES PLACHA",
+    "crm": "CRM-BA 23826",
+    "especialidade": "ORTOPEDIA",
+    "assinaturaDigital": "Assinado digitalmente"
+  },
+  "atestado": {
+    "unidade": "UNIMED",
+    "diasAfastamento": 5,
+    "inicioAfastamento": "03/12/2026",
+    "fimAfastamento": "07/12/2026",
+    "status": "Válido"
       }
     }
   ]
