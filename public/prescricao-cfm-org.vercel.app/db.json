@@ -266,6 +266,30 @@
     "inicioAfastamento": "03/12/2026",
     "fimAfastamento": "07/12/2026",
     "status": "Válido"
+    }
+    },
+      {
+  "chave": "CFM-H9-1U1U3V3B82",
+  "data": "31/08/2026",
+  "paciente": {
+    "nome": "CRISTIANE SILVA FONSECA",
+    "cpf": "194.753.478-52",
+    "dataNascimento": "19/11/1977",
+    "cid": "F41.1",
+    "observacoes": "CRISE DE ANSIEDADE GERADA POR LUTO FAMILIAR."
+  },
+  "medico": {
+    "nome": "Dr. ABÍLIO DE SOUSA VIEIRA JUNIOR",
+    "crm": "CRM-SP 230444",
+    "especialidade": "Psiquiatra",
+    "assinaturaDigital": "Assinado digitalmente"
+  },
+  "atestado": {
+    "unidade": "HOSPITAL - JARDIM IVA",
+    "diasAfastamento": 5,
+    "inicioAfastamento": "31/08/2026",
+    "fimAfastamento": "04/09/2026",
+    "status": "Válido"
       }
     }
   ]
