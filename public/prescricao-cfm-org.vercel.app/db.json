@@ -30,7 +30,7 @@
       "data": "04/08/2026",
       "paciente": {
         "nome": "Jaqueline da cruz alves",
-        "cpf": "059.045.079.41",
+        "cpf": "059.045.079-41",
         "dataNascimento": "22/08/1985",
         "cid": "M54.5",
         "observacoes": "LOMBALGIA."
@@ -38,7 +38,7 @@
       "medico": {
         "nome": "Dr. ALCEU ROCHA JUNIOR",
         "crm": "CRM-PR 55889",
-        "especialidade": "MEDICINA FAMILÍA E COMUNIDADE",
+        "especialidade": "MEDICINA FAMÍLIA E COMUNIDADE",
         "assinaturaDigital": "Assinado digitalmente"
       },
       "atestato": {
@@ -50,7 +50,7 @@
       }
     },
 
-     {
+    {
       "chave": "CFM-G7-8L3L9J6F0",
       "data": "30/07/2026",
       "paciente": {
@@ -72,10 +72,10 @@
         "inicioAfastamento": "30/07/2026",
         "fimAfastamento": "01/08/2026",
         "status": "válido"
-        }
+      }
     },
 
-     { 
+    {
       "chave": "CFM-H1-8K319J9FF",
       "data": "01/08/2026",
       "paciente": {
@@ -100,7 +100,7 @@
       }
     },
       
-      {
+    {
       "chave": "CFM-F8-2VM5T2N9N1",
       "data": "08/08/2026",
       "paciente": {
@@ -113,7 +113,7 @@
       "medico": {
         "nome": "Dr. EDIS ANTÔNIO DE REZENDE",
         "crm": "CRM-GO 4.737",
-        "especialidade": "MEDICINA DA FAMILÍA E COMUNIDADE",
+        "especialidade": "MEDICINA DA FAMÍLIA E COMUNIDADE",
         "assinaturaDigital": "Assinado digitalmente"
       },
       "atestato": {
@@ -122,9 +122,10 @@
         "inicioAfastamento": "08/08/2026",
         "fimAfastamento": "10/08/2026",
         "status": "válido"
-         }
+      }
     },
-      {
+
+    {
       "chave": "CFM-J9-1Z1U3V3B82",
       "data": "16/08/2026",
       "paciente": {
@@ -137,7 +138,7 @@
       "medico": {
         "nome": "Dra. CAMILA ARRUDA MARINHO DO AMARAL",
         "crm": "CRM-GO 30015",
-        "especialidade": "MEDICINA DA FAMILÍA E COMUNIDADE",
+        "especialidade": "MEDICINA DA FAMÍLIA E COMUNIDADE",
         "assinaturaDigital": "Assinado digitalmente"
       },
       "atestato": {
@@ -146,13 +147,14 @@
         "inicioAfastamento": "16/08/2026",
         "fimAfastamento": "17/08/2026",
         "status": "válido"
-        }
+      }
     },
-      {
+
+    {
       "chave": "CFM-C3-0JKH1V2B5",
       "data": "13/08/2026",
       "paciente": {
-        "nome": "LIUENNE BATISTA DA SILVA,",
+        "nome": "LIUENNE BATISTA DA SILVA",
         "cpf": "030.604.081-65",
         "dataNascimento": "25/12/1991",
         "cid": "S83",
@@ -170,106 +172,107 @@
         "inicioAfastamento": "13/08/2026",
         "fimAfastamento": "14/08/2026",
         "status": "válido"
-        }
+      }
     },
-      {
-  "chave": "CFM-K0-8L3Z1U7V1",
-  "data": "03/08/2026",
-  "paciente": {
-    "nome": "HANNAH JULLYA LENZI DE ALMEIDA SANTOS",
-    "cpf": "163.594.947-52",
-    "dataNascimento": "09/10/2008",
-    "cid": "H10",
-    "observacoes": "CONJUNTIVITE"
-  },
-  "medico": {
-    "nome": "Dr. ALESSANDRO JOSE PASOLINI",
-    "crm": "CRM-ES 5224",
-    "especialidade": "MEDICINA FAMÍLIA E COMUNIDADE",
-    "assinaturaDigital": "Assinado digitalmente"
-  },
-  "atestato": {
-    "unidade": "HOSPITAL MADRE REGINA PROTMANN",
-    "diasAfastamento": 5,
-    "inicioAfastamento": "03/08/2026",
-    "fimAfastamento": "11/08/2026",
-    "status": "válido"
-    }
+
+    {
+      "chave": "CFM-K0-8L3Z1U7V1",
+      "data": "03/08/2026",
+      "paciente": {
+        "nome": "HANNAH JULLYA LENZI DE ALMEIDA SANTOS",
+        "cpf": "163.594.947-52",
+        "dataNascimento": "09/10/2008",
+        "cid": "H10",
+        "observacoes": "CONJUNTIVITE"
+      },
+      "medico": {
+        "nome": "Dr. ALESSANDRO JOSE PASOLINI",
+        "crm": "CRM-ES 5224",
+        "especialidade": "MEDICINA FAMÍLIA E COMUNIDADE",
+        "assinaturaDigital": "Assinado digitalmente"
+      },
+      "atestato": {
+        "unidade": "HOSPITAL MADRE REGINA PROTMANN",
+        "diasAfastamento": 9,
+        "inicioAfastamento": "03/08/2026",
+        "fimAfastamento": "11/08/2026",
+        "status": "válido"
+      }
     },
-      {
-  "chave": "CFM-K0-8L3Z1U7V2",
-  "data": "12/08/2026",
-  "paciente": {
-    "nome": "THIAGO VIADAO ESTRUPADO",
-    "cpf": "038.933.259-30",
-    "dataNascimento": "28/09/1989",
-    "cid": "S92",
-    "observacoes": "FRATURA"
-  },
-  "medico": {
-    "nome": "Dra. DAIZE MORAES DE AVILA",
-    "crm": "CRM - 34779",
-    "especialidade": "MEDICINA FAMÍLIA E COMUNIDADE",
-    "assinaturaDigital": "Assinado digitalmente"
-  },
-  "atestato": {
-    "unidade": "HOSPITAL E MATERNIDADE SÃO JOSÉ DOS PINHAIS",
-    "diasAfastamento": 30,
-    "inicioAfastamento": "12/08/2026",
-    "fimAfastamento": "10/09/2026",
-    "status": "FALSO"
-}
+
+    {
+      "chave": "CFM-K0-8L3Z1U7V2",
+      "data": "12/08/2026",
+      "paciente": {
+        "nome": "THIAGO VIADÃO ESTRAPADO",
+        "cpf": "038.933.259-30",
+        "dataNascimento": "28/09/1989",
+        "cid": "S92",
+        "observacoes": "FRATURA"
+      },
+      "medico": {
+        "nome": "Dra. DAIZE MORAES DE AVILA",
+        "crm": "CRM-PR 34779",
+        "especialidade": "MEDICINA FAMÍLIA E COMUNIDADE",
+        "assinaturaDigital": "Assinado digitalmente"
+      },
+      "atestato": {
+        "unidade": "HOSPITAL E MATERNIDADE SÃO JOSÉ DOS PINHAIS",
+        "diasAfastamento": 30,
+        "inicioAfastamento": "12/08/2026",
+        "fimAfastamento": "10/09/2026",
+        "status": "inválido"
+      }
     },
-      {
-  "chave": "CFM-K3-1U1U3V3B82",
-  "data": "18/08/2026",
-  "paciente": {
-    "nome": "ANA JÚLIA FURTADO NASCIMENTO",
-    "cpf": "176.008.146-92",
-    "dataNascimento": "16/07/2012",
-    "cid": "Z01.4",
-    "observacoes": "Afastamento de 4 dias"
-  },
-  "medico": {
-    "nome": "Dra. ANNA MARCELLA FERREIRA ROSA",
-    "crm": "CRM-MG 116.343",
-    "especialidade": "MEDICINA FAMÍLIA E COMUNIDADE",
-    "assinaturaDigital": "Assinado digitalmente"
-  },
-  "atestado": {
-    "unidade": "POSTO DE SAÚDE DE DOLEARINA",
-    "diasAfastamento": 4,
-    "inicioAfastamento": "18/08/2026",
-    "fimAfastamento": "21/08/2026",
-    "status": "Válido"
-    }
+
+    {
+      "chave": "CFM-K3-1U1U3V3B82",
+      "data": "18/08/2026",
+      "paciente": {
+        "nome": "ANA JÚLIA FURTADO NASCIMENTO",
+        "cpf": "176.008.146-92",
+        "dataNascimento": "16/07/2012",
+        "cid": "Z01.4",
+        "observacoes": "EXAME DE ROTINA"
+      },
+      "medico": {
+        "nome": "Dra. ANNA MARCELLA FERREIRA ROSA",
+        "crm": "CRM-MG 116.343",
+        "especialidade": "MEDICINA FAMÍLIA E COMUNIDADE",
+        "assinaturaDigital": "Assinado digitalmente"
+      },
+      "atestato": {
+        "unidade": "POSTO DE SAÚDE DE DOLEARINA",
+        "diasAfastamento": 4,
+        "inicioAfastamento": "18/08/2026",
+        "fimAfastamento": "21/08/2026",
+        "status": "válido"
+      }
     },
-      {
-  "chave": "CFM-H9-1U1U3V3B82",
-  "data": "31/08/2026",
-  "paciente": {
-    "nome": "CRISTIANE SILVA FONSECA",
-    "cpf": "194.753.478-52",
-    "dataNascimento": "19/11/1977",
-    "cid": "F41.1",
-    "observacoes": "CRISE DE ANSIEDADE GERADA POR LUTO FAMILIAR."
-  },
-  "medico": {
-    "nome": "Dr. ABÍLIO DE SOUSA VIEIRA JUNIOR",
-    "crm": "CRM-SP 230444",
-    "especialidade": "Psiquiatra",
-    "assinaturaDigital": "Assinado digitalmente"
-  },
-  "atestado": {
-    "unidade": "HOSPITAL - JARDIM IVA",
-    "diasAfastamento": 5,
-    "inicioAfastamento": "31/08/2026",
-    "fimAfastamento": "04/09/2026",
-    "status": "Válido"
-  }
+
+    {
+      "chave": "CFM-H9-1U1U3V3B82",
+      "data": "31/08/2026",
+      "paciente": {
+        "nome": "CRISTIANE SILVA FONSECA",
+        "cpf": "194.753.478-52",
+        "dataNascimento": "19/11/1977",
+        "cid": "F41.1",
+        "observacoes": "CRISE DE ANSIEDADE GERADA POR LUTO FAMILIAR."
+      },
+      "medico": {
+        "nome": "Dr. ABÍLIO DE SOUSA VIEIRA JUNIOR",
+        "crm": "CRM-SP 230444",
+        "especialidade": "Psiquiatra",
+        "assinaturaDigital": "Assinado digitalmente"
+      },
+      "atestato": {
+        "unidade": "HOSPITAL - JARDIM IVA",
+        "diasAfastamento": 5,
+        "inicioAfastamento": "31/08/2026",
+        "fimAfastamento": "04/09/2026",
+        "status": "válido"
+      }
     }
   ]
 }
-
-
-
