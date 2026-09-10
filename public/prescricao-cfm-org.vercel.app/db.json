@@ -272,6 +272,34 @@
         "inicioAfastamento": "09/09/2026",
         "fimAfastamento": "09/09/2026",
         "status": "válido"
+        }
+    },
+    
+    {
+        "chave": "CFM-A3-KNYT190V0",
+      "data": "09/09/2026",
+
+      "paciente": {
+        "nome": "Joziel De oliveira santos",
+        "cpf": "111.414.264-63",
+        "dataNascimento": "10/03/1994",
+        "cid": "R07.4",
+        "observacoes": "dor torácica não especificada."
+      },
+
+      "medico": {
+        "nome": "Dr. JOÃO PEDRO BIASI TOSON",
+        "crm": "31007/GO",
+        "especialidade": "MEDICINA DA FAMÍLIA E COMUNIDADE",
+        "assinaturaDigital": "Assinado digitalmente"
+      },
+
+      "atestato": {
+        "unidade": "UPA 24H - UNIDADE DE PRONTO ATENDIMENTO",
+      "diasAfastamento": 2,
+    "inicioAfastamento": "09/09/2026",
+      "fimAfastamento": "10/09/2026",
+        "status": "válido"
       }
     }
   ]
