@@ -300,6 +300,34 @@
     "inicioAfastamento": "09/09/2026",
       "fimAfastamento": "10/09/2026",
         "status": "válido"
+        }
+    },
+    
+    {
+        "chave": "CFM-C2-MWPC166F8",
+      "data": "14/09/2026",
+
+      "paciente": {
+        "nome": "LARA PABLINY ALMEIDA SILVA",
+        "cpf": "707.604.931-70",
+        "dataNascimento": "02/02/2003",
+        "cid": "F41.1",
+        "observacoes": "ANSIEDADE."
+      },
+
+      "medico": {
+        "nome": "Dra. Wenner Roberta Ramos Barbosa Tome",
+        "crm": "CRM: 16619 - GO",
+        "especialidade": "PSIQUIATRA",
+        "assinaturaDigital": "Assinado digitalmente"
+      },
+
+      "atestato": {
+        "unidade": "TELEMEDICINA",
+      "diasAfastamento": 1,
+    "inicioAfastamento": "14/09/2026",
+      "fimAfastamento": "14/09/2026",
+        "status": "válido"
       }
     }
   ]
