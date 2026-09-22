@@ -126,8 +126,8 @@
     },
 
     {
-      "chave": "CFM-S4-5Z1W2T4K32",
-      "data": "06/09/2026",
+      "chave": "CFM-V4-2Y3D9T1C42",
+      "data": "20/09/2026",
       "paciente": {
         "nome": "LARA PABLINY ALMEIDA SILVA",
         "cpf": "707.604.931-70",
@@ -144,8 +144,8 @@
       "atestato": {
         "unidade": "TELEMEDICINA",
         "diasAfastamento": 1,
-        "inicioAfastamento": "06/09/2026",
-        "fimAfastamento": "06/09/2026",
+        "inicioAfastamento": "20/09/2026",
+        "fimAfastamento": "21/09/2026",
         "status": "válido"
       }
     },
