@@ -328,6 +328,34 @@
     "inicioAfastamento": "14/09/2026",
       "fimAfastamento": "14/09/2026",
         "status": "válido"
+        }
+    },
+    
+    {
+        "chave": "CFM-L3-YRHP348H5",
+      "data": "24/09/2026",
+
+      "paciente": {
+        "nome": "Ana Lívia Paccola da Silva",
+        "cpf": "017.359.698.34",
+        "dataNascimento": "21/11/2007",
+        "cid": "B34",
+        "observacoes": "Virose não especificada."
+      },
+
+      "medico": {
+        "nome": "JÉSSICA PIMENTA ARAÚJO",
+        "crm": "229032/SP",
+        "especialidade": "MEDICINA DA FAMÍLIA E COMUNIDADE",
+        "assinaturaDigital": "Assinado digitalmente"
+      },
+
+      "atestato": {
+        "unidade": "Upa 24h - Antônio Lorenzetti Filho",
+      "diasAfastamento": 1,
+    "inicioAfastamento": "24/09/2026",
+      "fimAfastamento": "24/09/2026",
+        "status": "válido"
       }
     }
   ]
