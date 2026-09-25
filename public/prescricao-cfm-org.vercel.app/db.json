@@ -356,6 +356,34 @@
     "inicioAfastamento": "24/09/2026",
       "fimAfastamento": "24/09/2026",
         "status": "válido"
+        }
+    },
+    
+    {
+        "chave": "CFM-E4-EFBR855F1",
+      "data": "21/09/2026",
+
+      "paciente": {
+        "nome": "Esther de Castro Santos",
+        "cpf": "089.012.815-46",
+        "dataNascimento": "13/08/2007",
+        "cid": "B34",
+        "observacoes": "Virose não especificada."
+      },
+
+      "medico": {
+        "nome": "Dra. ALINE CARDOSO PIRÃO",
+        "crm": "29402/BA",
+        "especialidade": "MEDICINA DA FAMÍLIA E COMUNIDADE",
+        "assinaturaDigital": "Assinado digitalmente"
+      },
+
+      "atestato": {
+        "unidade": "UPA de Itinga - Lauro De Freitas",
+      "diasAfastamento": 1,
+    "inicioAfastamento": "21/09/2026",
+      "fimAfastamento": "21/09/2026",
+        "status": "válido"
       }
     }
   ]
