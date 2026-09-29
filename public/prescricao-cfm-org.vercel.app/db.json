@@ -126,26 +126,26 @@
     },
 
     {
-      "chave": "CFM-V4-2Y3D9T1C42",
-      "data": "20/09/2026",
+      "chave": "CFM-N1-4C6U4G3K11",
+      "data": "27/09/2026",
       "paciente": {
         "nome": "LARA PABLINY ALMEIDA SILVA",
         "cpf": "707.604.931-70",
         "dataNascimento": "03/03/2002",
-        "cid": "F41.1",
-        "observacoes": "ANSIEDADE."
+        "cid": "A09",
+        "observacoes": "GASTROENTERITE."
       },
       "medico": {
-        "nome": "Dr. JARBAS HENRIQUE",
-        "crm": "CRM-GO 23385",
-        "especialidade": "PSIQUIATRA.",
+        "nome": "Dr. LUIZ LAZARO RODRIGUES ALVES",
+        "crm": "CRM-GO 5369",
+        "especialidade": "MEDICINA DA FAMÍLIA E COMUNIDADE.",
         "assinaturaDigital": "Assinado digitalmente"
       },
       "atestato": {
         "unidade": "TELEMEDICINA",
         "diasAfastamento": 2,
-        "inicioAfastamento": "20/09/2026",
-        "fimAfastamento": "21/09/2026",
+        "inicioAfastamento": "27/09/2026",
+        "fimAfastamento": "28/09/2026",
         "status": "válido"
       }
     },
