@@ -384,6 +384,34 @@
     "inicioAfastamento": "21/09/2026",
       "fimAfastamento": "21/09/2026",
         "status": "válido"
+        }
+    },
+    
+    {
+        "chave": "CFM-G3-7H3F9J6F9",
+      "data": "09/11/2026",
+
+      "paciente": {
+        "nome": "Bianca Pereira De Paula",
+        "cpf": "106.754.571-90",
+        "dataNascimento": "19/11/2010",
+        "cid": "U07.1",
+        "observacoes": "COVID-19."
+      },
+
+      "medico": {
+        "nome": "Dra. ANA BEATRIZ SILVA SABATEL",
+        "crm": "8268/MS",
+        "especialidade": "INFECTOLOGISTA",
+        "assinaturaDigital": "Assinado digitalmente"
+      },
+
+      "atestato": {
+        "unidade": "UNIMED - CAMPO GRANDE - MS",
+      "diasAfastamento": 5,
+    "inicioAfastamento": "09/11/2026",
+      "fimAfastamento": "13/11/2026",
+        "status": "válido"
       }
     }
   ]
