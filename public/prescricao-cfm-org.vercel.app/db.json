@@ -440,6 +440,34 @@
     "inicioAfastamento": "01/10/2026",
       "fimAfastamento": "01/10/2026",
         "status": "válido"
+         }
+    },
+    
+    {
+        "chave": "CFM-K6-8K4L2M7N5P",
+      "data": "01/10/2026",
+
+      "paciente": {
+        "nome": "Yasmin Souza dos Santos Dutra",
+        "cpf": "581.755.658-88",
+        "dataNascimento": "27/09/2007",
+        "cid": "M54.5",
+        "observacoes": "Lombalgia."
+      },
+
+      "medico": {
+        "nome": "Dr. Carlos Eduardo Mendes",
+        "crm": "123456/SP",
+        "especialidade": "CLÍNICO GERAL",
+        "assinaturaDigital": "Assinado digitalmente"
+      },
+
+      "atestato": {
+        "unidade": "UPA 24h - Rio Pequeno",
+      "diasAfastamento": 2,
+    "inicioAfastamento": "30/09/2026",
+      "fimAfastamento": "01/10/2026",
+        "status": "válido"
         }
     }
   ]
