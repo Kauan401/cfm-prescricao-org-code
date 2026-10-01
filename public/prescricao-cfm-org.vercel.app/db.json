@@ -441,6 +441,35 @@
     "inicioAfastamento": "01/10/2026",
     "fimAfastamento": "01/10/2026",
     "status": "válido"
+        }
+    },
+    
+    {
+
+  "chave": "CFM-G3-8K4L2M7N5P",
+  "data": "01/10/2026",
+
+  "paciente": {
+    "nome": "Ana Lívia Corrêa Lopes",
+    "cpf": "136.034.536-11",
+    "dataNascimento": "22/07/2009",
+    "cid": "A09",
+    "observacoes": "Gastroenterite."
+  },
+
+  "medico": {
+    "nome": "Dr. Carlos Eduardo Mendes",
+    "crm": "123456/SP",
+    "especialidade": "CLÍNICO GERAL",
+    "assinaturaDigital": "Assinado digitalmente"
+  },
+
+  "atestado": {
+    "unidade": "UPA - SANTO AMARO - SÃO PAULO - SP",
+    "diasAfastamento": 1,
+    "inicioAfastamento": "01/10/2026",
+    "fimAfastamento": "01/10/2026",
+    "status": "válido"
       }
     }
   ]
