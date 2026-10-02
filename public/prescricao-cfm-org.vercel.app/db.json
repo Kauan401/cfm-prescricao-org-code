@@ -468,6 +468,34 @@
     "inicioAfastamento": "30/09/2026",
       "fimAfastamento": "01/10/2026",
         "status": "válido"
+            }
+    },
+    
+    {
+        "chave": "CFM-N8-8K4L2M7N5P",
+      "data": "02/10/2026",
+
+      "paciente": {
+        "nome": "Yasmin Souza Nero",
+        "cpf": "022.750.891-283",
+        "dataNascimento": "09/06/2000",
+        "cid": "QD85",
+        "observacoes": "Burnout."
+      },
+
+      "medico": {
+        "nome": "Dr. Pablo Theodoro Barros Brito",
+        "crm": "6265/MT",
+        "especialidade": "Psiquiatra.",
+        "assinaturaDigital": "Assinado digitalmente"
+      },
+
+      "atestato": {
+        "unidade": "HCR - Barra Do Garças",
+      "diasAfastamento": 7,
+    "inicioAfastamento": "02/10/2026",
+      "fimAfastamento": "12/10/2026",
+        "status": "válido"
         }
     }
   ]
