@@ -521,6 +521,34 @@
         "inicioAfastamento": "05/10/2026",
         "fimAfastamento": "05/10/2026",
         "status": "válido"
+          }
+    },
+    
+    {
+        "chave": "CFM-KJ-2B9A3J9GSP",
+      "data": "06/10/2026",
+
+      "paciente": {
+        "nome": "Ana Lívia Corrêa Lopes",
+        "cpf": "136.034.536-11",
+        "dataNascimento": "22/07/2009",
+        "cid": "A09",
+        "observacoes": "Gastroenterite."
+      },
+
+      "medico": {
+        "nome": "Dr. ABELARDO ELIAS DA SILVA",
+        "crm": "9566/SP",
+        "especialidade": "MEDICINA DA FAMÍLIA E COMUNIDADE",
+        "assinaturaDigital": "Assinado digitalmente"
+      },
+
+      "atestato": {
+        "unidade": "UPA - SANTO AMARO - SÃO PAULO - SP",
+      "diasAfastamento": 1,
+    "inicioAfastamento": "06/10/2026",
+      "fimAfastamento": "06/10/2026",
+        "status": "válido"
         }
     }
   ]
