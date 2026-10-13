@@ -101,26 +101,26 @@
     },
       
     {
-      "chave": "CFM-N7-8B3N4M4B2",
-      "data": "26/09/2026",
+      "chave": "CFM-V6-1G9N4H1B3",
+      "data": "12/10/2026",
       "paciente": {
         "nome": "MÁRCIA NAVES DA SILVA",
         "cpf": "856.066.851-91",
         "dataNascimento": "18/11/1977",
-        "cid": "M23",
-        "observacoes": "TRANSTORNO INTERNOS NO JOELHO."
+        "cid": "M54.5",
+        "observacoes": "DORSALGIA."
       },
       "medico": {
-        "nome": "Dr. GILBERTO SEVERINO NASCIMENTO",
-        "crm": "CRM-GO 7141",
+        "nome": "Dr. EDUARDO AUGUSTO BUENO",
+        "crm": "CRM-GO 13186",
         "especialidade": "ORTOPEDISTA.",
         "assinaturaDigital": "Assinado digitalmente"
       },
       "atestato": {
         "unidade": "TELEMEDICINA",
-        "diasAfastamento": 3,
-        "inicioAfastamento": "26/09/2026",
-        "fimAfastamento": "28/09/2026",
+        "diasAfastamento": 1,
+        "inicioAfastamento": "12/10/2026",
+        "fimAfastamento": "12/10/2026",
         "status": "válido"
       }
     },
