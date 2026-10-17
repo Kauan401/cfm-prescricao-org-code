@@ -500,8 +500,8 @@
     },
 
     {
-      "chave": "CFM-KJ-3B9K1J2GNB",
-      "data": "06/10/2026",
+      "chave": "CFM-NV-1J3NN55D6",
+      "data": "13/10/2026",
       "paciente": {
         "nome": "Emanuel De Anunciação Alves",
         "cpf": "375.024.058-28",
@@ -510,16 +510,16 @@
         "observacoes": "GASTROENTERITE."
       },
       "medico": {
-        "nome": "Dr. Ademir Lopes Junior",
-        "crm": "CRM-SP 124879",
+        "nome": "Dra. Adriana Maia Domingos",
+        "crm": "CRM-SP 212886",
         "especialidade": "GASTROENTEROLOGIA.",
         "assinaturaDigital": "Assinado digitalmente"
       },
       "atestato": {
         "unidade": "UPA - UNIDADE DE PRONTO ATENDIMENTO (Paulicéia)",
-        "diasAfastamento": 1,
-        "inicioAfastamento": "06/10/2026",
-        "fimAfastamento": "06/10/2026",
+        "diasAfastamento": 4,
+        "inicioAfastamento": "13/10/2026",
+        "fimAfastamento": "16/10/2026",
         "status": "válido"
           }
     },
