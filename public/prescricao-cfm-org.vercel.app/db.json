@@ -304,29 +304,29 @@
     },
     
     {
-        "chave": "CFM-N9-2T1W6D9C11",
-      "data": "12/10/2026",
+        "chave": "CFM-BG-4F1M9Y9L12",
+      "data": "25/10/2026",
 
       "paciente": {
         "nome": "LARA PABLINY ALMEIDA SILVA",
         "cpf": "707.604.931-70",
         "dataNascimento": "02/02/2003",
-        "cid": "F41.1",
-        "observacoes": "ANSIEDADE."
+        "cid": "G43",
+        "observacoes": "ENXAQUECA."
       },
 
       "medico": {
-        "nome": "Dra. ISAAC AZAFF REZENDE I",
-        "crm": "CRM: 10032 - GO",
-        "especialidade": "PSIQUIATRA",
+        "nome": "Dr. JOÃO PEDRO BASI TOSON",
+        "crm": "CRM: 31007 - GO",
+        "especialidade": "MEDICINA DA FAMILÍA E COMUNIDADE.",
         "assinaturaDigital": "Assinado digitalmente"
       },
 
       "atestato": {
         "unidade": "TELEMEDICINA",
       "diasAfastamento": 2,
-    "inicioAfastamento": "12/10/2026",
-      "fimAfastamento": "13/10/2026",
+    "inicioAfastamento": "25/10/2026",
+      "fimAfastamento": "26/10/2026",
         "status": "válido"
         }
     },
