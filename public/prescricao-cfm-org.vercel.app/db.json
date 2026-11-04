@@ -578,6 +578,34 @@
       "fimAfastamento": "11/10/2026",
         "status": "válido"
         }
+    },
+    
+    {
+        "chave": "CFM-R6-QUIL818M7",
+      "data": "03/11/2026",
+
+      "paciente": {
+        "nome": "Ana Caroline Oliveira França",
+        "cpf": "113.955.295-31",
+        "dataNascimento": "05/04/2002",
+        "cid": "O03.4",
+        "observacoes": "aborto espontâneo incompleto, sem complicações"
+      },
+
+      "medico": {
+        "nome": "Dr. ADENILSON CIRNE DE ALMEIDA",
+        "crm": "CRM: 11047/BA",
+        "especialidade": "MEDICINA DA FAMÍLIA E COMUNIDADE.",
+        "assinaturaDigital": "Assinado digitalmente"
+      },
+
+      "atestato": {
+        "unidade": "UPA - BROTAS",
+      "diasAfastamento": 1,
+    "inicioAfastamento": "03/11/2026",
+      "fimAfastamento": "03/11/2026",
+        "status": "válido"
+        }
     }
   ]
       }
