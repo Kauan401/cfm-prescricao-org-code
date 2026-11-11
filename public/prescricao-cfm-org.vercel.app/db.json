@@ -606,6 +606,34 @@
       "fimAfastamento": "03/11/2026",
         "status": "válido"
         }
+    },
+    
+    {
+        "chave": "CFM-TO-FXBM362Y3",
+      "data": "10/11/2026",
+
+      "paciente": {
+        "nome": "Eduarda Roberta Teles",
+        "cpf": "142.514.639-27",
+        "dataNascimento": "02/09/2005",
+        "cid": "B34",
+        "observacoes": "VIROSE NÃO ESPECIFICADA"
+      },
+
+      "medico": {
+        "nome": "Dra. Adriana Da Paz Medonç",
+        "crm": "19286/SC",
+        "especialidade": "MEDICINA DA FAMÍLIA E COMUNIDADE",
+        "assinaturaDigital": "Assinado digitalmente"
+      },
+
+      "atestato": {
+        "unidade": "UPA24h - BELA VISTA",
+      "diasAfastamento": 1,
+    "inicioAfastamento": "10/11/2026",
+      "fimAfastamento": "10/11/2026",
+        "status": "válido"
+        }
     }
   ]
       }
