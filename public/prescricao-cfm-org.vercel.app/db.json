@@ -633,6 +633,31 @@
     "inicioAfastamento": "11/11/2026",
       "fimAfastamento": "11/11/2026",
         "status": "válido"
+        
+{
+  "chave": "CFM-TO-FXBM362YY",
+  "data": "13/11/2026",
+  "paciente": {
+    "nome": "JULIANA LETÍCIA DE SOUZA SANTOS NASCIMENTO",
+    "cpf": "199.702.397-08",
+    "dataNascimento": "04/09/2002",
+    "cid": "A09",
+    "observacoes": "Necessitando de 2 (dois) dias de repouso por motivo de doença."
+  },
+  "medico": {
+    "nome": "ADÃO MARTINS DE MENDONÇA",
+    "crm": "CRM-ES 18218",
+    "assinaturaDigital": "Assinatura eletrônica indicada no documento"
+  },
+  "atestato": {
+    "unidade": "PRONTO ATENDIMENTO DA GLÓRIA - UPA",
+    "diasAfastamento": 2,
+    "inicioAfastamento": "13/11/2026",
+    "fimAfastamento": "14/11/2026",
+    "status": "válido"
+  }
+      }
+    
         }
     }
   ]
