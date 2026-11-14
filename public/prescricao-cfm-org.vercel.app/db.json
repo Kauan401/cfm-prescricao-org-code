@@ -634,7 +634,11 @@
       "fimAfastamento": "11/11/2026",
         "status": "válido"
         
-{
+        }
+    },
+    
+    {
+    
   "chave": "CFM-TO-FXBM362YY",
   "data": "13/11/2026",
   "paciente": {
@@ -655,8 +659,6 @@
     "inicioAfastamento": "13/11/2026",
     "fimAfastamento": "14/11/2026",
     "status": "válido"
-  }
-      }
     
         }
     }
