@@ -660,6 +660,32 @@
     "inicioAfastamento": "05/09/2026",
     "fimAfastamento": "20/09/2026",
     "status": "válido"
+    }
+    },
+    
+    {
+    
+  "chave": "CFM-AV-FXBM362Y3",
+  "data": "16/11/2026",
+  "paciente": {
+    "nome": "ALANA DOS SANTOS PINHEIRO",
+    "cpf": "102.415.193-06",
+    "dataNascimento": "01/06/2008",
+    "cid": "A09",
+    "observacoes": "Gastroenterite."
+  },
+  "medico": {
+    "nome": "Dra. Alessandra Alves Da Silva Oliveira",
+    "crm": "221407/SP",
+    "especialidade": "MEDICINA DA FAMÍLIA E COMUNIDADE",
+    "assinaturaDigital": "Assinatura eletrônica indicada no documento"
+  },
+  "atestato": {
+    "unidade": "UPA (UNIDADE DE PRONTO ATENDIMENTO) - CUMBICA",
+    "diasAfastamento": 2,
+    "inicioAfastamento": "16/11/2026",
+    "fimAfastamento": "17/11/2026",
+    "status": "válido"
     
         }
     }
