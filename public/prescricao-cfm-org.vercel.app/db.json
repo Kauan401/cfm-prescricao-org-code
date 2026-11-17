@@ -686,6 +686,32 @@
     "inicioAfastamento": "16/11/2026",
     "fimAfastamento": "17/11/2026",
     "status": "válido"
+    }
+    },
+    
+    {
+    
+  "chave": "CFM-XX-FXBM362YY",
+  "data": "12/11/2026",
+  "paciente": {
+    "nome": "ATAIDE MARTINS APOLINÁRIO NETO",
+    "cpf": "162.342.627-83",
+    "dataNascimento": "12/08/2006",
+    "cid": "J30",
+    "observacoes": "Necessário de 2 (dois) dias de repouso.."
+  },
+  "medico": {
+    "nome": "Dr. Adilson Luis Martineli Júnior",
+    "crm": "22645/ES",
+    "especialidade": "MEDICINA DA FAMÍLIA E COMUNIDADE",
+    "assinaturaDigital": "Assinatura eletrônica indicada no documento"
+  },
+  "atestato": {
+    "unidade": "UPA 24h (UNIDADE DE PRONTO ATENDIMENTO)",
+    "diasAfastamento": 2,
+    "inicioAfastamento": "12/11/2026",
+    "fimAfastamento": "13/11/2026",
+    "status": "válido"
     
         }
     }
