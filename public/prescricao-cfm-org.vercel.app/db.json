@@ -765,6 +765,32 @@
     "inicioAfastamento": "18/09/2026",
     "fimAfastamento": "18/09/2026",
     "status": "válido"
+         }
+    },
+    
+    {
+    
+  "chave": "CFM-AZ-SL09YF22",
+  "data": "04/09/2026",
+  "paciente": {
+    "nome": "SOPHIA PIRES CABRAL",
+    "cpf": "052.207.541-06",
+    "dataNascimento": "17/03/2008",
+    "cid": "G43.9",
+    "observacoes": "Necessário de 1 (UM) dia de repouso."
+  },
+  "medico": {
+    "nome": "Dr. ALEX MARANHÃO ROSE",
+    "crm": "27697/GO",
+    "especialidade": "MEDICINA DA FAMÍLIA E COMUNIDADE",
+    "assinaturaDigital": "Assinatura eletrônica indicada no documento"
+  },
+  "atestato": {
+    "unidade": "SAU - SERVIÇO DE ATENDIMENTO (UNIMED)",
+    "diasAfastamento": 1,
+    "inicioAfastamento": "04/09/2026",
+    "fimAfastamento": "04/09/2026",
+    "status": "válido"
     
         }
     }
