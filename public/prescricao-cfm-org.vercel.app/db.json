@@ -739,6 +739,32 @@
     "inicioAfastamento": "25/09/2026",
     "fimAfastamento": "25/09/2026",
     "status": "válido"
+       }
+    },
+    
+    {
+    
+  "chave": "CFM-GJ-NAL422V6",
+  "data": "18/09/2026",
+  "paciente": {
+    "nome": "SOPHIA PIRES CABRAL",
+    "cpf": "052.207.541-06",
+    "dataNascimento": "17/03/2008",
+    "cid": "J06.9",
+    "observacoes": "Necessário de 1 (UM) dia de repouso."
+  },
+  "medico": {
+    "nome": "Dra. ANA CARLA DE PAULA PRADO",
+    "crm": "15947/GO",
+    "especialidade": "MEDICINA DA FAMÍLIA E COMUNIDADE",
+    "assinaturaDigital": "Assinatura eletrônica indicada no documento"
+  },
+  "atestato": {
+    "unidade": "SAU - SERVIÇO DE ATENDIMENTO (UNIMED)",
+    "diasAfastamento": 1,
+    "inicioAfastamento": "18/09/2026",
+    "fimAfastamento": "18/09/2026",
+    "status": "válido"
     
         }
     }
