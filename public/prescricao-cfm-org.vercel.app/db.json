@@ -791,6 +791,32 @@
     "inicioAfastamento": "04/09/2026",
     "fimAfastamento": "04/09/2026",
     "status": "válido"
+      }
+    },
+    
+    {
+    
+  "chave": "CFM-AS-UL11DH12",
+  "data": "21/08/2026",
+  "paciente": {
+    "nome": "SOPHIA PIRES CABRAL",
+    "cpf": "052.207.541-06",
+    "dataNascimento": "17/03/2008",
+    "cid": "A09",
+    "observacoes": "Necessário de 1 (UM) dia de repouso."
+  },
+  "medico": {
+    "nome": "Dra. ALDA LÚCIA SOLÁ",
+    "crm": "23964/GO",
+    "especialidade": "MEDICINA DA FAMÍLIA E COMUNIDADE",
+    "assinaturaDigital": "Assinatura eletrônica indicada no documento"
+  },
+  "atestato": {
+    "unidade": "SAU - SERVIÇO DE ATENDIMENTO (UNIMED)",
+    "diasAfastamento": 1,
+    "inicioAfastamento": "21/08/2026",
+    "fimAfastamento": "21/08/2026",
+    "status": "válido"
     
         }
     }
