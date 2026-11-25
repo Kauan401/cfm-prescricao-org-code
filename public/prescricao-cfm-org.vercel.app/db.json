@@ -843,6 +843,34 @@
     "inicioAfastamento": "16/11/2026",
     "fimAfastamento": "16/11/2026",
     "status": "válido"
+    }
+    },
+    
+    {
+        "chave": "CFM-TO-FXBM362U9",
+      "data": "25/11/2026",
+
+      "paciente": {
+        "nome": "JHENIFER DA SILVA GOMES",
+        "cpf": "541.920.588-20",
+        "dataNascimento": "27/11/2006",
+        "cid": "M54",
+        "observacoes": "Dorsalgia"
+      },
+
+      "medico": {
+        "nome": "Dr. Amanda Melato Portela",
+        "crm": "234262/SP",
+        "especialidade": "Medicina da família e comunidade",
+        "assinaturaDigital": "Assinado digitalmente"
+      },
+
+      "atestato": {
+        "unidade": "UPA NORTE MARÍLIA",
+      "diasAfastamento": 3,
+    "inicioAfastamento": "26/11/2026",
+      "fimAfastamento": "28/11/2026",
+        "status": "válido"
     
         }
     }
