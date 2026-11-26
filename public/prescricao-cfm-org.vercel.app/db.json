@@ -899,6 +899,35 @@
     "inicioAfastamento": "30/11/2026",
       "fimAfastamento": "05/12/2026",
         "status": "válido"
+                }
+    },
+    
+    {
+        "chave": "CFM-FL-HPXCJY932B4",
+      "data": "07/12/2026",
+
+      "paciente": {
+        "nome": "JHENIFER DA SILVA GOMES",
+        "cpf": "541.920.588-20",
+        "dataNascimento": "27/11/2006",
+        "cid": "M54",
+        "observacoes": "Dorsalgia"
+      },
+
+      "medico": {
+        "nome": "Dra. Damaris Carneiro Alionso",
+        "crm": "207799/SP",
+        "especialidade": "Medicina da família e comunidade",
+        "assinaturaDigital": "Assinado digitalmente"
+      },
+
+      "atestato": {
+        "unidade": "UPA NORTE MARÍLIA",
+      "diasAfastamento": 6,
+    "inicioAfastamento": "07/12/2026",
+      "fimAfastamento": "12/12/2026",
+        "status": "válido"
+        
     
         }
     }
