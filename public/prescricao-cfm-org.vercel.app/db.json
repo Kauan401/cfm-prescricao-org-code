@@ -927,7 +927,34 @@
     "inicioAfastamento": "07/12/2026",
       "fimAfastamento": "12/12/2026",
         "status": "válido"
-        
+        }
+    },
+    
+    {
+        "chave": "CFM-CA-GFKN273Y3",
+      "data": "26/11/2026",
+
+      "paciente": {
+        "nome": "Eduarda Roberta Teles",
+        "cpf": "142.514.639-27",
+        "dataNascimento": "02/09/2005",
+        "cid": "A09",
+        "observacoes": "Gastroenterite"
+      },
+
+      "medico": {
+        "nome": "Dra. Vanessa De Souza Martins",
+        "crm": "27608/SC",
+        "especialidade": "MEDICINA DA FAMÍLIA E COMUNIDADE",
+        "assinaturaDigital": "Assinado digitalmente"
+      },
+
+      "atestato": {
+        "unidade": "UPA24h - BELA VISTA",
+      "diasAfastamento": 1,
+    "inicioAfastamento": "26/11/2026",
+      "fimAfastamento": "26/11/2026",
+        "status": "válido"
     
         }
     }
